@@ -1,26 +1,9 @@
-#Weather Web Application
 
-
-Table of Contents
-Introduction
-Features
-Technologies Used
-How to Use
-API Key
-Live Demo
-Contributing
-License
-Introduction
-The Weather Web Application is a simple and user-friendly tool that allows users to check the current weather conditions for a specific city. It provides real-time weather information, including temperature and weather description, to help users plan their activities accordingly.
-
-#Weather Web App
-
-#Features
 Weather Search: Users can enter the name of a city and click the "Search" button to retrieve the current weather conditions for that city.
 
 Live Weather Updates: The application automatically refreshes weather data every 15 seconds, ensuring that users always have up-to-date information.
 
-#Technologies Used
+Technologies Used
 HTML: Used for structuring the web page.
 
 CSS: Used for styling the web page and creating an attractive user interface.
@@ -47,8 +30,6 @@ To use this application, you need to obtain an API key from OpenWeatherMap and r
 javascript
 Copy code
 const apiKey = 'YOUR_API_KEY';
-Live Demo
-You can try out a live demo of the Weather Web Application here.
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -64,4 +45,3 @@ Push your changes to your forked repository.
 Submit a pull request to the original repository.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
