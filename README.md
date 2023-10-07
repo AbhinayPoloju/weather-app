@@ -26,7 +26,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/AbhinayPoloju/weather-web-app.git
+git clone https://github.com/AbhinayPoloju/weather-app.git
 Open the index.html file in your web browser.
 
 Enter the name of a city in the input field and click the "Search" button.
